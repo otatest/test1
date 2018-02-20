@@ -1,0 +1,21 @@
+フォルダー パスの一覧
+ボリューム シリアル番号は 1EF9-6B85 です
+C:.
+│  a.txt
+│  
+├─0
+│      ota.cmd
+│      ota.sign
+│      
+├─1
+│      d-trusted-ca-cert
+│      
+└─2
+    │  digicerthighassuranceevrootca33.crt
+    │  dummy-root-ca-cert
+    │  dummy_ota_vendor_cert.der
+    │  
+    └─sys
+            mcuflashimg.bin
+            servicepack.ucf
+            
